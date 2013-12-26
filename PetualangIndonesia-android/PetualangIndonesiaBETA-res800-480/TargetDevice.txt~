@@ -1,0 +1,4 @@
+OS : Android
+android:minSdkVersion="5" android:targetSdkVersion="17"
+
+res : 800 x 480

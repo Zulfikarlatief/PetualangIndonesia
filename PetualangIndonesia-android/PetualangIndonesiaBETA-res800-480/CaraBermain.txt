@@ -1,0 +1,4 @@
+Mengembalikan missing piece dari sebuah gambar
+
+cara bermain:
+Pemain menggerakkan potongan bagian yang telah disediakan ke bagian gambar yang hilang dengan cara dragging / menyeret potongan gambar dengan batasan waktu yang telah ditentukan
